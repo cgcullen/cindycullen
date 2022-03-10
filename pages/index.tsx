@@ -9,9 +9,9 @@ import {
   ServerIcon,
   ShieldCheckIcon,
 } from "@heroicons/react/outline"
-import MobileHeader from "components/MobileHeader"
-import Header from "components/Header"
-import Footer from "components/Footer"
+import MobileHeader from "../components/MobileHeader"
+import Header from "../components/Header"
+import Footer from "../components/Footer"
 
 const Home: NextPage = () => {
   const features = [
